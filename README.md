@@ -10,7 +10,7 @@ The first part of the assignment is to familiarize yourself with how works of in
 
 In this first part, you will play the game *Planetfall*, written by Steve Meretzky. *Planetfall* is considered by many to be one of the best entries of interactive fiction and it is one of my personal favorites. I have included all of the necessary game files for you within this repository, including all of the relevant game manuals. You will also need an interpreter in order to play these games. [Check out a brief introduction to interactive fiction here.](http://www.microheaven.com/IFGuide)
 
-Additionally, for a more "modern" game, check out the other included game *Photopia* by Adam Cadre. There aren't many puzzles in *Photopia*, but the storytelling is top-notch and well worth your time to play.
+Additionally, for a more "modern" game, check out the other included game [*Photopia*](Photopia/photopia.z5) by Adam Cadre. There aren't many puzzles in *Photopia*, but the storytelling is top-notch and well worth your time to play.
 
 * **Windows**: I have included WinFrotz in the repository for your use. The program has long been abandoned by its creator, but it’s still one of the better Inform interpreters on Windows.
 * **MacOS**: Download the program [Spatterlight](https://github.com/angstsmurf/spatterlight) from Github. Alternatively, you might also consider [Lectrote](https://www.electronjs.org/apps/lectrote), a more modern but less feature-filled interpreter.
