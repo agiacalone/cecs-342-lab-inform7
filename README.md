@@ -10,6 +10,8 @@ The first part of the assignment is to familiarize yourself with how works of in
 
 In this first part, you will play the game *Planetfall*, written by Steve Meretzky. *Planetfall* is considered by many to be one of the best entries of interactive fiction and it is one of my personal favorites. I have included all of the necessary game files for you within this repository, including all of the relevant game manuals. You will also need an interpreter in order to play these games. [Check out a brief introduction to interactive fiction here.](http://www.microheaven.com/IFGuide)
 
+Additionally, for a more "modern" game, check out the other included game *Photopia* by Adam Cadre. There aren't many puzzles in *Photopia*, but the storytelling is top-notch and well worth your time to play.
+
 * **Windows**: I have included WinFrotz in the repository for your use. The program has long been abandoned by its creator, but it’s still one of the better Inform interpreters on Windows.
 * **MacOS**: Download the program [Spatterlight](https://github.com/angstsmurf/spatterlight) from Github. Alternatively, you might also consider [Lectrote](https://www.electronjs.org/apps/lectrote), a more modern but less feature-filled interpreter.
 * **Linux**: Install the program *frotz* in apt-get or similar repository. It is a command-line IF interpreter; it is extremely robust and considered the standard for IF interpreters today.
@@ -37,7 +39,7 @@ Review the documentation for Inform 7 on the [language’s official website](htt
 
 ## Deliverables
 
-Submit your source code (\*.inf) and the compiled Inform file (in .z8 format) through your git repository. I should be able to play your game by downloading the compiled file and running it in my interpreter of choice (all compiled .z\* files should work in any compatible interpreter).
+Submit your source code (`*.inf`) and the compiled Inform file (in `.z8` format) through your git repository. I should be able to play your game by downloading the compiled file and running it in my interpreter of choice (all compiled `.z*` files should work in any compatible interpreter).
 
 Your submission must follow the following rules, *else I will not grade it and you will receive a zero for the submission*:
 
