@@ -20,7 +20,7 @@ I know that it is not common practice in computer games today to read manuals be
 
 *Planetfall* is a text game which is puzzle-based and the game will throw various puzzles at you to solve in order to progress the storyline. Please avoid the temptation to Google a walkthrough for the game. The game should be played and enjoyed; I do not expect you to be able to finish the entire game (as people often played these games for weeks before finishing), but attempt to get as far in the game as you can. The game also contains many "in" jokes intended for the computer-literate crowd which were atypical for the era (which I also hope that you will appreciate). Don’t be afraid to experiment within the game and test the limits of the parser--you might be surprised at how well the parser will understand you. Part of the enjoyment of these games is trying new things out and attempting to solve puzzles in unexpected ways.
 
-*Planetfall* also exists on several sites which allow you to play in a web browser, but they typically lack the save/restore features which are important to actually finishing the game. You will also need to know how to use an interpreter to play the game you will eventually create in Part Two.
+*Planetfall* also exists on several sites which allow you to play in a web browser, but they typically lack the save/restore features which are important to actually finishing the game. You will also need to know how to use an interpreter to play the game you will eventually create in part two.
 
 No deliverables are required for part one. Simply use this time to play and enjoy the game and understand how interactive fiction works.
 
