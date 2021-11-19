@@ -1,4 +1,4 @@
-# CECS 342 Assignment 1: Specialty Languages with Inform 7
+# CECS 342 Lab 1: Specialty Languages with Inform 7
 
 ## Assignment Description
 
