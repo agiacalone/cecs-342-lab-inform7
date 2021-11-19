@@ -35,7 +35,7 @@ Your game should contain one (or more, if you like) of each of the following:
 * **Incomplete object**. Your flashlight needs batteries. Your gun needs bullets. Your car needs gas. Your bicycle has a flat tire. You need a computer to get at the information on a floppy disk. You are a zombie and need a brain.
 * **Limited resource**. You have a limited amount of time (to find the bomb before it goes off) or money (to buy the things you need), or food, drink, or sleep (so you don’t collapse), or some other resource. Maybe you can find more resources in the game, maybe you can’t.
 
-Review the documentation for Inform 7 on the [language’s official website](http://inform7.com). The site includes the language documentation as well as example source code files in the form of complete, compilable games.
+Review the documentation for Inform 7 on the [language’s official website](http://inform7.com) and the [included documentation within our repository](inform7_docs/). The site includes the language documentation as well as example source code files in the form of complete, compilable games.
 
 ## Deliverables
 
